@@ -8,18 +8,15 @@ layout: page
   <div class="col-md-8">
 
     {% include index/description.html %}
-    {% include index/carousel.html title="Sample Items" %}
+    
+    {% include index/featured-terms.html field="family" title="Family Classifications" btn-color="primary" %}
+
+    {% include index/featured-terms.html field="location_specific" title="Collected At" btn-color="primary" %}
     
   </div>
   <div class="col-md-4">  
 
-    {% include index/time.html %}
-
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
-
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
-    
-    {% include index/objects.html %}
+    {% include index/carousel.html title="Herbarium Sheets" %}
 
   </div>
   <div class="col-md-12">

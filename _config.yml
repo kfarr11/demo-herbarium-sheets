@@ -23,7 +23,7 @@ title: Herbarium Sheets at the College of Wooster
 tagline: Learning CollectionBuilder at DHSI 2024
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The Herbarium Sheets Collection was created and donated by Mary Ronsheim, in 1950 when she was a student at the College of Wooster. The sheets in this collection preserve leaves taken from the College of Wooster campus and nearby locations in the Wooster, OH community. This collection will be of particular interest to those interested in regional history, biology, and dendrology. The sheets associated in this collection have been selected as a pilot for learning the CollectionBuilder platform at Digital Humanities Summer Institute 2024 (held at the University of Victoria in Canada)."
+description: "The Herbarium Sheets Collection was created and donated by Mary Ronsheim, in 1950 when she was a student at the College of Wooster. The sheets in this collection preserve leaves taken from the College of Wooster campus and nearby locations in the Wooster, OH community. This collection will be of particular interest to those interested in regional history, biology, and dendrology. All sheets were collected during the Fall semester of 1950, between September and November."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: ohio;history;biology
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -34,7 +34,7 @@ author: Katie Farr
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: herbarium-metadata-breaks
+metadata: herbarium-metadata-new
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:

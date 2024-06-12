@@ -6,17 +6,7 @@
 ---
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' | where_exp: 'item', 'item.date' -%}
 {
-    "title": {
-        "media": {
-          "url": "{{ site.data.featured_item.src | relative_url }}",
-          "caption": {{ site.data.featured_item.title | jsonify }},
-          "credit": {{ site.title | jsonify }}
-        },
-        "text": {
-          "headline": {{ site.title | append: ' Timeline' | jsonify }},
-          "text": {{ site.description | jsonify }}
-        }
-    },
+
     "events": [
       {% for item in items %}{
         "media": {
