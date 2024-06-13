@@ -52,8 +52,8 @@ metadata: herbarium-metadata-new
 #
 organization-name: "The College of Wooster Libraries"
 organization-link: https://wooster.edu/library/
-organization-logo-banner:
-organization-logo-nav:
+organization-logo-banner: objects/woolibs-logo.jpg
+organization-logo-nav: objects/woo-logo.jpg
 
 ##########
 # ROBOTS EXCLUDE

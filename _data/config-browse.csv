@@ -1,8 +1,8 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-creator,Creator,,,
+creator,Creator,,true
 subject,,,true
-location,,,
+location,,,true
 identifier,,,true,Identifier
 family,Family,,
 location_specific,Location,,
