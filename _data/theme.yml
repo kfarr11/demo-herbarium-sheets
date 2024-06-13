@@ -96,7 +96,7 @@ bootswatch: lux
 
 # THEME FONTS [optional!]
 base-font-size: 1.2em
-text-color: "#191919"
+text-color: "#3e2e07"
 link-color: "#0d6efd"
 base-font-family: "Kanit"
 font-cdn: '<link rel="preconnect" href="https://fonts.googleapis.com">
